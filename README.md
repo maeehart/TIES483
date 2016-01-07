@@ -41,3 +41,8 @@ The source code of the Jupyter notebooks thought in this course will be availabl
 ## Livereveal
 The Jupyter notebooks will be transferred to slides using https://github.com/damianavila/RISE. To view the slides at home, you do not need to have this installed.
 
+License
+=======
+
+This work is licensed under a [Creative Commons Attribution 3.0 Unported License.](http://creativecommons.org/licenses/by/3.0/)
+
