@@ -7,7 +7,7 @@ Lecturer Markus Hartikainen, PhD
 ## Course plan
 
 **Introduction**  
-    1. First hour: Basic information about the course and study methods (Python, Jupyter etc.); second hour: A very fast introduction to Python and Jupyter using https://github.com/jrjohansson/scientific-python-lectures.  
+    1. First hour: Basic information about the course and study methods (Python, Jupyter etc.); second hour: A very fast introduction to Python and Jupyter using Robert Johansson's Scienfic Python Lectures (https://github.com/jrjohansson/scientific-python-lectures).  
     2. The very basics: what is an optimization problem, how to solve one, and line search  
 **Unconstrained optimization**  
     3. Direct search methods: Coordinate descent, Hooke&Jeeves, and Powell's methods   
