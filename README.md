@@ -25,7 +25,7 @@ Lecturer Markus Hartikainen, PhD
     12. Applications of optimization (part 1)  
     13. Applications of optimization (part 2)  
 **Optimization software**  
-    14. Optimization modelling languages, especially Pyomo  
+    14. Algebraic modelling languages, especially Pyomo  
     15. IND-NIMBUS(R)  
 **Wrapping up**  
     16. How to find and read scientific papers in the field  
